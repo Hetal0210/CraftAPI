@@ -7,7 +7,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 commited the file 
 committing the file2
 ## Features
-
+git status 
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
 * Thread-Safe
